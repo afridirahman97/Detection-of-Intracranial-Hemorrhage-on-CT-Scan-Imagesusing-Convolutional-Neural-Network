@@ -16,6 +16,11 @@ Python 3.6 or greater, Tensorflow 2, Flask, Gevent, Scikit Learn, Scikit Image
 https://www.kaggle.com/vbookshelf/computed-tomography-ct-images
 
 
+## Original Dataset
+
+https://www.kaggle.com/vbookshelf/computed-tomography-ct-images
+
+
 
 
 
