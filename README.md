@@ -16,9 +16,10 @@ Python 3.6 or greater, Tensorflow 2, Flask, Gevent, Scikit Learn, Scikit Image
 https://www.kaggle.com/vbookshelf/computed-tomography-ct-images
 
 
-## Original Dataset
+## Live View
+The WebApp has been deployed on Heroku and can be accessed via the below link<br>
 
-https://www.kaggle.com/vbookshelf/computed-tomography-ct-images
+https://hemorrhage-detect.herokuapp.com/
 
 
 
